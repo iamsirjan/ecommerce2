@@ -1,0 +1,16 @@
+.login__form {
+  display: flex;
+  flex-direction: column;
+}
+.login__formbox {
+  display: flex;
+  align-items: center;
+}
+.login__box {
+  display: flex;
+  align-items: center;
+  height: 600px;
+}
+.login__image > img {
+  height: 100%;
+}

@@ -1,0 +1,13 @@
+.products_row {
+  display: flex;
+  z-index: 1;
+  margin-left: 5px;
+  margin-top: 60px;
+  margin-right: 5px;
+}
+.product__basketcount {
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 13px;
+  font-weight: 800;
+}
